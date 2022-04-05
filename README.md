@@ -16,9 +16,5 @@
   Download and run the index.js file using Node
   ## License 
   This project is license under GNU
-  ## Contributing 
-  undefined
-  ## Tests
-  undefined
   ## Questions
   If you have any questions about this projects, please contact me directly at ansab@sidiki.io. You can view more of my projects at https://github.com/asidiki.
