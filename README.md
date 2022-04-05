@@ -14,6 +14,7 @@
   ## Installation 
   Download the repo and run using Node
   ## Usage 
+  ![Tutorial](./utils/readme-generator.gif)
   Download and run the index.js file using Node
   ## License 
   This project is license under GNU
